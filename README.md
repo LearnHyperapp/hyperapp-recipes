@@ -4,13 +4,15 @@ This repository contains short (< 100 lines) code snippets that showcase feature
 
 Each recipe has tags you can search for.
 
+Existing tags: [beginner][tip][style]
+
 ## Recipes
 
-* **[counter](./counter.js)** <sup>[beginner][jsx]</sup>  
+* **[counter](./counter.js)** [try it](https://codepen.io/hyperapp/pen/zNxZLP?editors=0110) <sup>[beginner][jsx]</sup>  
   basic example
-* **[logger](./logger.js)** <sup>[beginner][tip]</sup> by [lukejacksonn](https://github.com/lukejacksonn)  
+* **[logger](./logger.js)** [try it](https://codepen.io/mytrill/pen/eywbxb?editors=0011) <sup>[beginner][tip]</sup> by [lukejacksonn](https://github.com/lukejacksonn)  
   logs the state on app render
-* **[style](./style.js)** <sup>[beginner][style]</sup>  
+* **[style](./style.js)** [try it](https://codepen.io/mytrill/pen/GybPwN?editors=0010) <sup>[beginner][style]</sup>  
   shows how to use the `style` attribute
 
 ## TODOs

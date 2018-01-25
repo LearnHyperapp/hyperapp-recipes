@@ -9,8 +9,8 @@ const actions = {
   up: () => state => ({ count: state.count + 1 })
 };
 
-// logs the state before each render
 const view = (state, actions) =>
+  // logs the state before each render
   console.log(state) && (
     <main>
       <h1>{state.count}</h1>

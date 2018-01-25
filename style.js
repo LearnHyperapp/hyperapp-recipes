@@ -32,11 +32,30 @@ const countStyle = {
   "font-size": "8em"
 };
 
+const buttonStyle = {
+  background: "#111",
+  "border-radius": "0px",
+  border: "1px solid #00caff",
+  color: "#00caff",
+
+  "font-size": "2em",
+  "font-weight": 100,
+
+  margin: "2rem",
+
+  outline: "none",
+  padding: "5px 15px"
+};
+
 const view = (state, actions) => (
   <main style={mainStyle}>
+    <button style={buttonStyle} onclick={actions.down}>
+      -
+    </button>
     <h1 style={countStyle}>{state.count}</h1>
-    <button onclick={actions.down}>-</button>
-    <button onclick={actions.up}>+</button>
+    <button style={buttonStyle} onclick={actions.up}>
+      +
+    </button>
   </main>
 );
 
