@@ -2,6 +2,8 @@
 
 This repository contains short (< 100 lines) code snippets that showcase features & how to with Hyperapp.
 
-## Snippets
+Each recipe has one or more tag(s) you can search for.
 
-* [counter](./counter.js)
+## Recipes
+
+* [counter](./counter.js) <sup>[beginner]</sup>
