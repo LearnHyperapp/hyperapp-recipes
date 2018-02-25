@@ -1,13 +1,13 @@
-import { h, app } from "hyperapp";
+import { h, app } from "hyperapp"
 
 const state = {
   count: 0
-};
+}
 
 const actions = {
   down: () => state => ({ count: state.count - 1 }),
   up: () => state => ({ count: state.count + 1 })
-};
+}
 
 const mainStyle = {
   "background-color": "#111",
@@ -22,7 +22,7 @@ const mainStyle = {
   "text-align": "center",
 
   display: "flex"
-};
+}
 
 const countStyle = {
   color: "#00caff",
@@ -30,7 +30,7 @@ const countStyle = {
 
   "font-weight": 100,
   "font-size": "8em"
-};
+}
 
 const buttonStyle = {
   background: "#111",
@@ -45,7 +45,7 @@ const buttonStyle = {
 
   outline: "none",
   padding: "5px 15px"
-};
+}
 
 const view = (state, actions) => (
   <main style={mainStyle}>
@@ -57,6 +57,6 @@ const view = (state, actions) => (
       +
     </button>
   </main>
-);
+)
 
-const main = app(state, actions, view, document.body);
+const main = app(state, actions, view, document.body)

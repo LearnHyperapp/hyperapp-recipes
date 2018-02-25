@@ -1,13 +1,13 @@
-import { h, app } from "hyperapp";
+import { h, app } from "hyperapp"
 
 const state = {
   count: 0
-};
+}
 
 const actions = {
   down: () => state => ({ count: state.count - 1 }),
   up: () => state => ({ count: state.count + 1 })
-};
+}
 
 const view = (state, actions) => (
   <main>
@@ -15,6 +15,6 @@ const view = (state, actions) => (
     <button onclick={actions.down}>-</button>
     <button onclick={actions.up}>+</button>
   </main>
-);
+)
 
-const main = app(state, actions, view, document.body);
+const main = app(state, actions, view, document.body)
