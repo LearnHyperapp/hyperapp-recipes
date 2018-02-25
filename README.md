@@ -14,7 +14,7 @@ Current tags: [beginner][style][list][router]
   Simple Todo list with hyperapp
 * **[style](./style.js)** [[try it](https://www.hyperstart.io/artifacts/NYAw2ak7y3R75uHzHWydyk5cViH3-x6HI0o8Q2jYAZvK8)] <sup>[beginner][style]</sup>  
   Shows how to use the `style` attribute
-* **[router](./router)** [[try it](https://hyperstart.io/artifacts/NYAw2ak7y3R75uHzHWydyk5cViH3-mXXHQq4S06S2Uo7u)] <sup>[router]</sup>
+* **[router](./router)** [[try it](https://www.hyperstart.io/artifacts/NYAw2ak7y3R75uHzHWydyk5cViH3-mXXHQq4S06S2Uo7u)] <sup>[router]</sup>
   Simple router that relies on the history API
 
 ## To add
