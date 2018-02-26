@@ -4,18 +4,20 @@ This repository contains short code snippets that showcase features & how tos wi
 
 Each recipe has tags you can search for.
 
-Current tags: [beginner][style][list][router]
+Current tags: [beginner][style][list][router][slices][large app]
 
 ## Recipes
 
 * **[counter](./counter.js)** [[try it](https://www.hyperstart.io/artifacts/NYAw2ak7y3R75uHzHWydyk5cViH3-ZB0sSq0VviHwE3PK)] <sup>[beginner][jsx]</sup>  
-  Basic example
+  Basic example to show the interactions between state, actions and view.
 * **[Todo App](./todo.js)** [[try it](https://www.hyperstart.io/artifacts/NYAw2ak7y3R75uHzHWydyk5cViH3-D1WPCuSI9lseef96)] <sup>[beginner][tip][list]</sup>  
-  Simple Todo list with hyperapp
+  Simple Todo list with hyperapp.
 * **[style](./style.js)** [[try it](https://www.hyperstart.io/artifacts/NYAw2ak7y3R75uHzHWydyk5cViH3-x6HI0o8Q2jYAZvK8)] <sup>[beginner][style]</sup>  
-  Shows how to use the `style` attribute
-* **[router](./router)** [[try it](https://www.hyperstart.io/artifacts/NYAw2ak7y3R75uHzHWydyk5cViH3-mXXHQq4S06S2Uo7u)] <sup>[router]</sup>
-  Simple router that relies on the history API
+  This example shows how to use the `style` attribute.
+* **[router](./router)** [[try it](https://www.hyperstart.io/artifacts/NYAw2ak7y3R75uHzHWydyk5cViH3-mXXHQq4S06S2Uo7u)] <sup>[router]</sup>  
+  Simple router that relies on the history API.
+* **[link between slices](./slices.js)** [[try it](https://www.hyperstart.io/artifacts/NYAw2ak7y3R75uHzHWydyk5cViH3-SCMgWopKZGsi3Sm6)]<sup>[slices][large app]</sup>  
+  This example shows how to call actions from other slices. This is a useful pattern when developping large apps.
 
 ## To add
 
