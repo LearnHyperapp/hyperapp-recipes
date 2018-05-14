@@ -8,15 +8,15 @@ Current tags: [beginner][style][list][router][slices][large app]
 
 ## Recipes
 
-* **[counter](./counter.js)** [[try it](https://www.hyperstart.io/projects/NYAw2ak7y3R75uHzHWydyk5cViH3-ZB0sSq0VviHwE3PK)] <sup>[beginner][jsx]</sup>  
+* **[counter](./counter.js)** [[try it](https://www.hyperstart.io/projects/c62qJKcfzZY2)] <sup>[beginner][jsx]</sup>  
   Basic example to show the interactions between state, actions and view.
-* **[Todo App](./todo.js)** [[try it](https://www.hyperstart.io/projects/NYAw2ak7y3R75uHzHWydyk5cViH3-D1WPCuSI9lseef96)] <sup>[beginner][tip][list]</sup>  
+* **[Todo App](./todo.js)** [[try it](https://www.hyperstart.io/projects/95I5x2ZnFRyY)] <sup>[beginner][tip][list]</sup>  
   Simple Todo list with hyperapp.
-* **[style](./style.js)** [[try it](https://www.hyperstart.io/projects/NYAw2ak7y3R75uHzHWydyk5cViH3-x6HI0o8Q2jYAZvK8)] <sup>[beginner][style]</sup>  
+* **[style](./style.js)** [[try it](https://www.hyperstart.io/projects/vxT2~~VJzZ9K)] <sup>[beginner][style]</sup>  
   This example shows how to use the `style` attribute.
-* **[router](./router)** [[try it](https://www.hyperstart.io/projects/NYAw2ak7y3R75uHzHWydyk5cViH3-mXXHQq4S06S2Uo7u)] <sup>[router]</sup>  
+* **[router](./router)** [[try it](https://www.hyperstart.io/projects/HKp4Qi__IvG2)] <sup>[router]</sup>  
   Simple router that relies on the history API.
-* **[link between slices](./slices.js)** [[try it](https://www.hyperstart.io/projects/NYAw2ak7y3R75uHzHWydyk5cViH3-SCMgWopKZGsi3Sm6)]<sup>[slices][large app]</sup>  
+* **[link between slices](./slices.js)** [[try it](https://www.hyperstart.io/projects/9AHl5shQSYLm)]<sup>[slices][large app]</sup>  
   This example shows how to call actions from other slices. This is a useful pattern when developping large apps.
 
 ## To add

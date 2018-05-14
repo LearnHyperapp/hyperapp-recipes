@@ -1,7 +1,6 @@
 {
   "name": "hyperapp-recipes",
-  "description":
-    "A list of short code snippets/example that showcase how to use Hyperapp.",
+  "description": "A list of short code snippets/example that showcase how to use Hyperapp.",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
